@@ -36,7 +36,6 @@
         "**/*.mjs"
     ],
     "exclude": [
-        "node_modules",
-        "tailwind.config.cjs"
+        "node_modules"
     ]
 }
